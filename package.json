@@ -1,0 +1,13 @@
+{
+  "name": "site1",
+  "version": "1.0.0",
+  "description": "Ivanovo",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server",
+    "dev": "npx live-server",
+    "install-deps": "npm install -g http-server live-server"
+  },
+  "author": "",
+  "license": "ISC"
+}
